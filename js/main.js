@@ -90,7 +90,7 @@ let noOfSecs = 0;
 
 setInterval(function(){
 
-    let eventDate = new Date("2024-12-31");
+    let eventDate = new Date("2024-11-25");
     let currentDate = new Date();
 
     noOfDays = Math.round((eventDate - currentDate) / day);
